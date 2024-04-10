@@ -1,4 +1,4 @@
-Merge
+## Merge
 
 - Vá para a branch principal `git checkout main` e lá faça o merge com a branch `exemplo-branch` que você criou, com `git merge exemplo-branch`
 
